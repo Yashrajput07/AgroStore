@@ -7,137 +7,137 @@
     <layouts>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/font/days_one.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/font/lemon.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_task.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_dashboard.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_diseases_details.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_manufacture.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_manufacture_data.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_manufacture_data_post.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_transport.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_transport_data.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_weather.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/forecast_item_layout.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_shopping.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/product_item_layout.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/transaction_item_layout.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/transport_admin_layout.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/filter_menu.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/home_menu.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/location_menu.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/logout_menu.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/priority_menu.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/profile_menu.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/shopping_menu.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/transport_menu.xml">
         <config>
-          <theme>@style/Theme.AgroWorld</theme>
+          <theme>@style/Theme.AgroStore</theme>
         </config>
       </layout>
     </layouts>
@@ -184,13 +184,13 @@
       <change beforePath="$PROJECT_DIR$/app/src/debug/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/debug/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/debug/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/network/APIService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/network/APIService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/payment/activities/PaymentDetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/payment/activities/PaymentDetailsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/ui/activity/SignUpActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/ui/activity/SignUpActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/ui/activity/UserProfileActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/ui/activity/UserProfileActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/ui/fragments/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/ui/fragments/HomeFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/ui/fragments/ProfileFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/ui/fragments/ProfileFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agroworldapp/utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/network/APIService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/network/APIService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/payment/activities/PaymentDetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/payment/activities/PaymentDetailsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/ui/activity/SignUpActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/ui/activity/SignUpActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/ui/activity/UserProfileActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/ui/activity/UserProfileActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/ui/fragments/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/ui/fragments/HomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/ui/fragments/ProfileFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/ui/fragments/ProfileFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/project/agrostore/utils/Constants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/app_icon4.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/app_icon4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/disease.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/disease.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/expand.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/expand.jpeg" afterDir="false" />
@@ -247,7 +247,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\yashr\AndroidStudioProjects\AgroWorldapp\app" />
+      <recent name="C:\Users\yashr\AndroidStudioProjects\AgroStoreapp\app" />
     </key>
   </component>
   <component name="RunManager">
