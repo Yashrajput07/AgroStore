@@ -1,4 +1,4 @@
-package com.project.agroworldapp.weather.activity;
+package com.project.agrostore.weather.activity;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -16,19 +16,19 @@ import androidx.lifecycle.ViewModelProviders;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
 import com.bumptech.glide.Glide;
-import com.project.agroworldapp.BuildConfig;
-import com.project.agroworldapp.R;
-import com.project.agroworldapp.databinding.ActivityWeatherBinding;
-import com.project.agroworldapp.ui.repository.AgroWorldRepositoryImpl;
-import com.project.agroworldapp.utils.Constants;
-import com.project.agroworldapp.utils.CustomMultiColorProgressBar;
-import com.project.agroworldapp.utils.Permissions;
-import com.project.agroworldapp.viewmodel.AgroViewModel;
-import com.project.agroworldapp.viewmodel.AgroWorldViewModelFactory;
-import com.project.agroworldapp.weather.adapter.WeatherForecastAdapter;
-import com.project.agroworldapp.weather.listener.WeatherForecastListener;
-import com.project.agroworldapp.weather.model.weather_data.WeatherResponse;
-import com.project.agroworldapp.weather.model.weatherlist.ListItem;
+import com.project.agrostore.BuildConfig;
+import com.project.agrostore.R;
+import com.project.agrostore.databinding.ActivityWeatherBinding;
+import com.project.agrostore.ui.repository.AgroStoreRepositoryImpl;
+import com.project.agrostore.utils.Constants;
+import com.project.agrostore.utils.CustomMultiColorProgressBar;
+import com.project.agrostore.utils.Permissions;
+import com.project.agrostore.viewmodel.AgroViewModel;
+import com.project.agrostore.viewmodel.AgroStoreViewModelFactory;
+import com.project.agrostore.weather.adapter.WeatherForecastAdapter;
+import com.project.agrostore.weather.listener.WeatherForecastListener;
+import com.project.agrostore.weather.model.weather_data.WeatherResponse;
+import com.project.agrostore.weather.model.weatherlist.ListItem;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -48,7 +48,7 @@ public class WeatherActivity extends AppCompatActivity implements WeatherForecas
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding = DataBindingUtil.setContentView(this, R.layout.activity_weather);
-        initializeAgroWorldViewModel();
+        initializeAgroStoreViewModel();
         ActionBar actionBar = getSupportActionBar();
         actionBar.setTitle(R.string.current_weather);
         actionBar.setDisplayHomeAsUpEnabled(true);
@@ -129,9 +129,9 @@ public class WeatherActivity extends AppCompatActivity implements WeatherForecas
         binding.recyclerViewForecast.setLayoutManager(new LinearLayoutManager(WeatherActivity.this, LinearLayoutManager.HORIZONTAL, false));
     }
 
-    public void initializeAgroWorldViewModel() {
-        AgroWorldRepositoryImpl agroWorldRepository = new AgroWorldRepositoryImpl();
-        viewModel = ViewModelProviders.of(this, new AgroWorldViewModelFactory(agroWorldRepository, this)).get(AgroViewModel.class);
+    public void initializeAgroStoreViewModel() {
+        AgroStoreRepositoryImpl agroStoreRepository = new AgroStoreRepositoryImpl();
+        viewModel = ViewModelProviders.of(this, new AgroStoreViewModelFactory(agroStoreRepository, this)).get(AgroViewModel.class);
     }
 
     @Override
