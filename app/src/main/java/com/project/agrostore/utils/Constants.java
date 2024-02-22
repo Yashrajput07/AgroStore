@@ -116,7 +116,7 @@ public class Constants {
     public static void adminEmailContact(Context context) {
         Intent emailIntent = new Intent(Intent.ACTION_SENDTO);
         emailIntent.setData(Uri.parse("mailto:"));
-        emailIntent.putExtra(Intent.EXTRA_EMAIL, new String[]{"digitech4574@gmail.com", "mr.nakroz.77@gmail.com"});
+        emailIntent.putExtra(Intent.EXTRA_EMAIL, new String[]{"digitech4574@gmail.com", "mr.nekroz.77@gmail.com"});
         emailIntent.putExtra(Intent.EXTRA_SUBJECT, "Enter your subject here..");
         context.startActivity(Intent.createChooser(emailIntent, "Email via..."));
     }
